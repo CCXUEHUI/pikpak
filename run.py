@@ -84,7 +84,6 @@ def r(e, t):
     x = i(w) - o(f)
     return [s(a(i(f), o(f))), s(a(i(g), o(g))), s(a(i(w), o(w))), s(a(b, x))]
 
-
 def i(e):
     return int(e.split(",")[0])
 
